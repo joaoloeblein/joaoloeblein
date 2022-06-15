@@ -1,5 +1,13 @@
 ### Hi 👋
-Sobre
+###### Sobre
+
+### Habilidades
+
+![Javascipt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 ### Detalhes
@@ -12,4 +20,7 @@ Sobre
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoloeblein)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoloeblein&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contato
+

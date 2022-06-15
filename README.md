@@ -8,7 +8,7 @@ Sobre
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoloeblein&repo=github-readme-stats)](https://github.com/joaoloeblein/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoloeblein&repo=Login_page&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 

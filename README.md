@@ -1,6 +1,8 @@
 ### Hi 👋
 ###### Sobre
 
+Estudante de Ciência da computação disposto a aprender, 18 anos, atualmente estou focado em Javascript, tenho realizado projetos simples até então e agora busco ampliar a extensão da minha técnica.
+
 ### Habilidades
 
 ![Javascipt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

@@ -18,7 +18,7 @@ Estudante de Ciência da computação disposto a aprender, 18 anos, atualmente e
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoloeblein&repo=Login_page&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoloeblein&repo=7DaysOfCode&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 

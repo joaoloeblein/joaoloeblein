@@ -1,7 +1,7 @@
 ### Hi 👋
 ###### Sobre
 
-Estudante de Ciência da computação disposto a aprender, 18 anos, atualmente estou focado em Javascript, tenho realizado projetos simples até então e agora busco ampliar a extensão da minha técnica.
+Estudante de Ciência da computação disposto a aprender, 21 anos, atualmente estou focado em Javascript, tenho realizado projetos simples até então e agora busco ampliar a extensão da minha técnica.
 
 ### Habilidades
 

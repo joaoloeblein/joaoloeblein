@@ -1,7 +1,7 @@
 ### Hi 👋
 ###### Sobre
 
-Estudante de Ciência da computação disposto a aprender, 21 anos, atualmente estou focado em Javascript, tenho realizado projetos simples até então e agora busco ampliar a extensão da minha técnica.
+Estudante de Ciência da computação disposto a aprender, 22 anos, atualmente estou focado em Dart, tenho realizado projetos simples até então e agora busco ampliar a extensão da minha técnica.
 
 ### Habilidades
 
@@ -9,7 +9,7 @@ Estudante de Ciência da computação disposto a aprender, 21 anos, atualmente e
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ### Detalhes

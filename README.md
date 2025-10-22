@@ -10,7 +10,7 @@ Estudante de Ciência da computação disposto a aprender, 22 anos, atualmente e
 ![Javascipt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
+![Docusaurus](https://img.shields.io/badge/docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)
 
 
 ### Detalhes

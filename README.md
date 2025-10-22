@@ -1,7 +1,7 @@
-### Hi 👋
+### Oi! 👋
 ###### Sobre
 
-Estudante de Ciência da computação disposto a aprender, 22 anos, atualmente estou focado em Dart, tenho realizado projetos simples até então e agora busco ampliar a extensão da minha técnica.
+Estudante de Ciência da computação disposto a aprender, 22 anos, atualmente estou tenho trabalhado principalmente com Dart usando Flutter, porém meu foco de estudo tem sido React.
 
 ### Habilidades
 

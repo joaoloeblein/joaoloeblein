@@ -15,11 +15,7 @@ Estudante de Ciência da computação, 23 anos, trabalho como Engenheiro de Soft
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoloeblein)](https://github.com/joaoloeblein/github-readme-stats)
-
 ### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoloeblein&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato
 

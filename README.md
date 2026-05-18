@@ -12,11 +12,6 @@ Estudante de Ciência da computação, 23 anos, trabalho como Engenheiro de Soft
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)
 
-
-### Detalhes
-
-### Linguagens utilizadas
-
 ### Contato
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/jo%C3%A3o-l-b3200b142)

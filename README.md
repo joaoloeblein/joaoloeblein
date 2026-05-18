@@ -1,7 +1,7 @@
 ### Oi! 👋
 ###### Sobre
 
-Estudante de Ciência da computação disposto a aprender, 22 anos, atualmente estou tenho trabalhado principalmente com Dart usando Flutter, porém meu foco de estudo tem sido React.
+Estudante de Ciência da computação, 23 anos, trabalho como Engenheiro de Software na @stemos, atualmente estou tenho trabalhado principalmente com Dart, Flutter, React e Javascript.
 
 ### Habilidades
 
@@ -15,7 +15,7 @@ Estudante de Ciência da computação disposto a aprender, 22 anos, atualmente e
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoloeblein&theme=github_dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoloeblein)](https://github.com/joaoloeblein/github-readme-stats)
 
 ### Linguagens utilizadas
 
